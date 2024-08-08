@@ -1,4 +1,4 @@
-## Olá! Eu sou o Diego Flausino 🖐️
+## Olá! Eu sou Diego Flausino 🖐️
 
 ## Tecnologias que eu uso no meu dia
 
