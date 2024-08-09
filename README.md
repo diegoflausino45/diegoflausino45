@@ -10,6 +10,8 @@
   <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </div><br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoflausino45&show_icons=true&theme=tokyonight)
+
 ## Tecnologias que estou estudando
 <div style="display: inline_block">
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
