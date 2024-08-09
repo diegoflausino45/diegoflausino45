@@ -1,4 +1,11 @@
-## Olá! Eu sou Diego Flausino 🖐️
+ <h1>Olá! Eu sou Diego Flausino 🖐️</h1>
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/diego-flausino/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:diegocflausino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://portifolio-kappa-orcin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+</div><br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoflausino45&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -10,18 +17,11 @@
   <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </div><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoflausino45&show_icons=true&theme=tokyonight)
 
-## Tecnologias que estou estudando
+## Estudando ✍🏽
 <div style="display: inline_block">
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="nodejs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 </div><br/>
 
-##
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/diego-flausino/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:diegocflausino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://portifolio-kappa-orcin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-</div><br/>
