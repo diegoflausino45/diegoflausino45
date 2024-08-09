@@ -24,4 +24,4 @@
   <a href="https://portifolio-kappa-orcin.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div><br/>
 
-![Snake animetion](https://github.com/diegoflausino45//diegoflausino45/blob/output/github-contribution-grid-snake.svg)
+![Snake animetion](https://github.com/diegoflausino45/blob/output/github-contribution-grid-snake.svg)
