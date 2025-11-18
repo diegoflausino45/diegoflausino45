@@ -1,5 +1,5 @@
 <h1 align="left">Olá 👋, sou Diego Flausino</h1>
-<h3 align="left">Um desenvolvedor frontend apaixonado do Brasil</h3>
+<h3 align="left">Um desenvolvedor frontend, formado em ADS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegoflausino45&label=Profile%20views&color=0e75b6&style=flat" alt="diegoflausino45" /> </p>
 
