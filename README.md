@@ -1,4 +1,4 @@
-## Olá, meu nome é Diego Flausino!
+## ☕️ Olá, meu nome é Diego Flausino!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🔥 Linguagens: **Coloque as linguagens que você desenvolve.**
 </p>
 
 <p align="left">
@@ -19,9 +19,15 @@
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
-<br/><br/><br/><br/><br/>
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
----
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<br/>
    
 ## 🚀 Minhas Skills
 
@@ -34,9 +40,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-
----
-
+<br/><br/>
 ## ⭐ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoflausino45&show_icons=true&theme=dark)
