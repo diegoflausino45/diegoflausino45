@@ -3,28 +3,21 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Atualmente trabalho como Analista de TI na Ultra Displays, cuidando do ambiente Windows, redes, AD, firewall e aquela magia que faz tudo funcionar sem ninguém perceber 😄<br/><br/>
+  Sou formado em Análise e Desenvolvimento de Sistemas e curto bastante criar coisas no front-end. Gosto de juntar o melhor dos dois mundos: infraestrutura + desenvolvimento para deixar    tudo mais rápido, organizado e automatizado. <br/><br/>
 </p>
 
 <p align="left">
-  🔥 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🔥 Linguagens: **JavaScript • TypeScript • Node.JS**
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: **React • Next.JS • Nest.JS • Firebase • MongoDB • Figma • TailWindCss • Git • API.REST**
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Se quiser trocar uma ideia, conversar sobre tecnologia ou falar de oportunidades, estou por aqui! <br/>
+  📩 diegocflausino@gmail.com 
 </p>
 
 <br/>
