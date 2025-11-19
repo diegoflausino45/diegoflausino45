@@ -8,20 +8,22 @@
 </p>
 
 <p align="left">
-  🔥 Linguagens: *JavaScript • TypeScript • Node.JS*
+  🔥 Linguagens: <strong>JavaScript • TypeScript • Node.JS</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: *React • Next.JS • Nest.JS • Firebase • MongoDB • Figma • TailWindCss • Git • API.REST*
+  💼 Ferramentas: <strong>React • Next.JS • Nest.JS • Firebase • MongoDB • Figma • TailWindCss • Git • API.REST</strong>
 </p>
 
 <p align="left">
   💌 Se quiser trocar uma ideia, conversar sobre tecnologia ou falar de oportunidades, estou por aqui! <br/>
-  📩 diegocflausino@gmail.com 
+  <strong>diegocflausino@gmail.com</strong> 
 </p>
 
+##  Redes Sociais
+<a href="https://linkedin.com/in/diego flausino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego flausino" height="30" width="40" /></a>
+<a href="https://instagram.com/diego.flausino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diego.flausino" height="30" width="40" /></a>
 <br/>
-   
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
@@ -40,7 +42,7 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell"/></code>
 
-<br/><br/>
+
 ## ⭐ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoflausino45&show_icons=true&theme=dark)
