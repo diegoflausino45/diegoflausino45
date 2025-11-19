@@ -21,8 +21,8 @@
 </p>
 
 ## 💬 Redes Sociais
-<a href="https://linkedin.com/in/diego-flausino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego flausino" height="30" width="40" /></a>
-<a href="https://instagram.com/diego.flausino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diego.flausino" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diego-flausino" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego flausino" height="30" width="40" /></a>
+<a href="https://instagram.com/diego.flausino" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diego.flausino" height="30" width="40" /></a>
 <br/>
 ## 🚀 Minhas Skills
 
