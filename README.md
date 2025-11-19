@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🔥 Linguagens: **JavaScript • TypeScript • Node.JS**
+  🔥 Linguagens: *JavaScript • TypeScript • Node.JS*
 </p>
 
 <p align="left">
-  💼 Ferramentas: **React • Next.JS • Nest.JS • Firebase • MongoDB • Figma • TailWindCss • Git • API.REST**
+  💼 Ferramentas: *React • Next.JS • Nest.JS • Firebase • MongoDB • Figma • TailWindCss • Git • API.REST*
 </p>
 
 <p align="left">
