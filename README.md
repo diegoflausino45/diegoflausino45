@@ -46,4 +46,4 @@
 ## ⭐ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoflausino45&show_icons=true&theme=dark)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoflausino45&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoflausino45&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
