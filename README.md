@@ -4,7 +4,7 @@
 
 <p align="left"> 
   Atualmente trabalho como Analista de TI na Ultra Displays, cuidando do ambiente Windows, redes, AD, firewall e aquela magia que faz tudo funcionar sem ninguém perceber 😄<br/><br/>
-  Sou formado em Análise e Desenvolvimento de Sistemas e curto bastante criar coisas no front-end. Gosto de juntar o melhor dos dois mundos: infraestrutura + desenvolvimento para deixar    tudo mais rápido, organizado e automatizado. <br/><br/>
+  Sou formado em Análise e Desenvolvimento de Sistemas e curto bastante criar coisas no front-end. Gosto de juntar o melhor dos dois mundos: infraestrutura + desenvolvimento para deixar    tudo mais rápido, organizado e automatizadoautomatizado.. <br/><br/>
 </p>
 
 <p align="left">
